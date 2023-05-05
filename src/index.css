@@ -1,0 +1,26 @@
+:root{
+  --body-bg:#07C7A4;
+  --create-form-title:#07C7A4;
+  --linkColor:#000:
+  --exColor:#ffff;
+  --create-formBg:#FFFFFF;
+  --createTodoBg:#DCF5E6;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul,ol, li {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color:inherit;
+}
+.container{
+  width: 100%;
+  max-width: 1250px;
+  margin: 0 auto;
+}
